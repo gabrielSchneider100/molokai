@@ -1,7 +1,7 @@
 " Vim color file
 "
-" Author: Tomas Restrepo <tomas@winterdom.com>
-" https://github.com/tomasr/molokai
+" Author: Gabriel Schneider <gabrielschneider100@gmail.com>
+" https://github.com/gabrielSchneider100/molokai
 "
 " Note: Based on the Monokai theme for TextMate
 " by Wimer Hazenberg and its darker variant

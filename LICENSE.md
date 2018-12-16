@@ -4,7 +4,7 @@ molokai.vim source code is licensed as follows:
 
 The MIT License (MIT)
 
-Copyright (c) 2011 Tomas Restrepo
+Copyright (c) 2018 Gabriel Schneider
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
